@@ -8,6 +8,7 @@ keras = "*"
 jupyterlab = "*"
 tensorflow = "*"
 matplotlib = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
